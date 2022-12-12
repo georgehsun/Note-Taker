@@ -4,7 +4,7 @@
     "description": "You need to first install npm i  Then you need to type out node server.js. Make sure you have the exact port. On your serer, you need to type put localhost:3014",
     "main": "server.js",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "mysql": "^2.18.1",
         "nodemon": "^2.0.2"
     },
